@@ -1,0 +1,24 @@
+_repo: Glass-Manufacture_52724
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rosenhain, Walter
+    birthdate: 1875
+    deathdate: 1934
+    gutenberg_agent_id: '47017'
+    url: http://www.gutenberg.org/2009/agents/47017
+description: ''
+gutenberg_issued: '2016-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Glass manufacture'
+- !lcc 'TP'
+- GITenberg
+title: Glass Manufacture
+url: http://www.gutenberg.org/ebooks/52724
